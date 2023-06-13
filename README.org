@@ -1,0 +1,10 @@
+* ops5
+
+The Ops5 programming language for production systems
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/sharplispers/ops5.git   |
+| commit  | 77f9ca9  |
+| systems | ops5 |
+|---------+-------------------------------------------|
+
